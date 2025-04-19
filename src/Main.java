@@ -10,6 +10,8 @@ public class Main {
             obvod = 2 * stranaA + 2 * stranaB;
             obsah = stranaA * stranaB;
 
-            System.out.println( "Obvod obdelniku je " + obvod + " Obsah obdelniku je " + obsah );
+            System.out.println( " Obdelnik ma se stranou A " + stranaA + "m" + "a stranou B " + stranaB + "m");
+            System.out.println(" Obvod:  " + obvod +"m");
+            System.out.println(" Obsah: " + obsah + "m^2");
         }
     }
